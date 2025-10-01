@@ -3,7 +3,7 @@
 I'm a Software Engineering student and aspiring backend developer, passionate about building robust and scalable solutions to solve real-world problems.
 
 -  I'm currently honing my skills in **backend development**, with a focus on **REST APIs** and **clean architecture**.
--  I’m currently learning about **Microservices Architecture* 😎.
+-  I’m currently learning about **Microservices Architecture** 😎.
 -  I’m looking to collaborate on open-source projects using Java/Kotlin and Spring Boot.
 -  My goal is to contribute to meaningful projects and continuously build applications that showcase my growing skills.
 -  **Fun fact: I'm driven by the challenge of turning revolutionary ideas into code.**
