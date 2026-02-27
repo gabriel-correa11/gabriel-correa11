@@ -1,27 +1,36 @@
-# Hi, I'm Gabriel Correa 
+# Hi, I'm Gabriel Correa 🇧🇷
 
-I'm a Software Engineering student and aspiring backend developer, passionate about building robust and scalable solutions to solve real-world problems.
+I'm a **Software Engineering student** focused on **Platform Engineering** and **MLOps**. I build robust, scalable backends and intelligent agentic workflows. 
 
--  I'm currently honing my skills in **backend development**, with a focus on **REST APIs** and **clean architecture**.
--  I’m currently learning about **Microservices Architecture** 😎.
--  I’m looking to collaborate on open-source projects using Java/Kotlin and Spring Boot.
--  My goal is to contribute to meaningful projects and continuously build applications that showcase my growing skills.
--  **Fun fact: I'm driven by the challenge of turning revolutionary ideas into code.**
+- 🛠️ **Current Focus:** Building autonomous AI agent crews with **CrewAI** and **Ollama** (Local LLMs).
+- 🏗️ **Platform & Infra:** Exploring **Kubernetes**, **Docker**, and **Infrastructure as Code** to scale ML models.
+- 🐍 **Backend & Data:** Advanced Python for **Machine Learning APIs** (FastAPI) and Fraud Detection systems.
+- 🛡️ **Hobbyist:** Diving into **Cybersecurity** (Pentesting & Red Teaming) to build more secure systems.
+- 🎯 **Goal:** Architecting the intersection between DevOps and Artificial Intelligence.
 
 ---
 
-### 🧰 Tech & Tools
+### 🧰 Tech Stack & Tools
 
-- **Languages:** Java | Flutter | JavaScript | Python | SQL
-- **Frameworks & Ecosystems:** Spring Boot | Node.js
-- **Tools & Platforms:** Git | GitHub | IntelliJ IDEA | VS Code
-- **Concepts:** REST APIs | Clean Code | Clean Architecture | Databases | Agile Practices
+- **Languages:** Python (AI/ML) | Java & Kotlin (Spring Boot) | SQL | JavaScript
+- **AI & Agents:** CrewAI | LangChain | Ollama | LiteLLM
+- **Frameworks:** FastAPI | Spring Boot | Node.js | Flutter
+- **Infrastructure:** Docker | Kubernetes | Linux  | Git & GitHub
+- **Principles:** Clean Architecture | SOLID | DevSecOps | Agile
+
+---
+
+### 📈 Current Projects
+
+- **FraudAnalyzer API:** A high-performance fraud detection system using ML and FastAPI.
+- **MediSuite Local:** Orchestrating AI agents for medical billing audit (Privacy-first / Local LLM).
+- **Grimório:** A Full-stack MVP using Flutter and Firebase to manage complex data.
 
 ---
 
 ### 📬 Let's Connect!
 
-- 📧 **Email:** [gabriel2pk@hotmail.com](mailto:gabriel2pk@hotmail.com)
 - 💼 **LinkedIn:** [linkedin.com/in/gabrielppcorrea](https://www.linkedin.com/in/gabrielppcorrea/)
+- 📧 **Email:** [gabriel2pk@hotmail.com](mailto:gabriel2pk@hotmail.com)
 
-Feel free to check out my work and get in touch! 😊
+**"Turning complex infrastructure into code, one agent at a time."**
