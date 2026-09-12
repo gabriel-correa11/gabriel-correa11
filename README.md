@@ -1,86 +1,72 @@
-# Gabriel Correa
+# Hi, I'm Gabriel Correa 👋
 
-#### Software Engineering Student · C++ & Systems Programming · Backend
+Software Engineering student focused on **C++ and systems programming**.
 
----
+I enjoy understanding how software works under the hood, especially memory, concurrency, operating systems, networking, and Windows internals.
 
-### 🚀 "Building software to understand what happens below the abstraction layer."
+Most of my recent work has been in C++, but I've also built projects with Python, backend systems, machine learning, and local AI.
 
-## 👋 Who I Am
+## About Me
 
-I'm Gabriel Correa, a Software Engineering student focused on **C++ and systems programming**.
+- 🎓 Software Engineering student
+- 💻 Focused on C++ and systems programming
+- 🔧 Currently building **RootCause**, a Windows telemetry and diagnostics project
+- 🐧 Studying operating systems, networking, and computer architecture
+- 🧪 Interested in testing, debugging, and figuring out why things break
+- 📍 Brazil
 
-I enjoy understanding how software works under the hood — from memory and concurrency to operating systems, networking and low-level Windows development.
+## What I Work With
 
-Alongside systems programming, I've built projects involving backend development, machine learning and local AI systems.
+**Languages**
 
-## ⚡ At a Glance
+`C++` `Python` `Java` `JavaScript` `SQL` `Dart`
 
-    name:       Gabriel Correa
-    role:       Software Engineering Student
-    focus:      C++ · Systems Programming
-    interests:  OS · Networking · Concurrency · Security
-    building:   RootCause
-    learning:   Modern C++ · Computer Architecture
+**Systems & Development**
 
----
+`CMake` `Google Test` `WinAPI` `Linux` `Git` `Docker`
 
-## 🔭 Currently Building & Learning
+**Backend & Other**
 
-### 🛠️ Building
+`FastAPI` `Firebase` `AWS`
 
-- ⚙️ **RootCause** — low-level Windows telemetry and causal diagnosis in C++
-- 🛡️ **CoreDetector** — fraud detection API combining ML and heuristics
-- 🤖 **MediSuite Local** — privacy-first local AI agent system
+## What I'm Working On
 
-### 🌱 Learning
+### RootCause
+
+A Windows telemetry and diagnostics tool written in C++.
+
+I'm building it to go deeper into Windows internals, system telemetry, concurrency, debugging, and modern C++.
+
+### CoreDetector
+
+A fraud detection API built with FastAPI and LightGBM.
+
+It combines machine learning predictions with rule based checks and includes 185 automated tests.
+
+### MediSuite Local
+
+A local AI project focused on agent orchestration and medical billing auditing, designed with privacy in mind.
+
+## What I'm Learning
+
+Right now I'm spending most of my study time on:
 
 - Modern C++
 - Operating Systems
 - Computer Architecture
-- Multithreading & Concurrency
+- Multithreading and Concurrency
 - Networking
-- Debugging & Reverse Engineering
+- Debugging
+- Windows Internals
 
----
+## GitHub Stats
 
-## 🧰 Tech Stack
+![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabriel-correa11&show_icons=true&hide_border=true)
 
-### Languages & Core
-`C++` `Python` `Java` `JavaScript` `SQL` `Dart`
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-correa11&layout=compact&hide_border=true)
 
-### Systems
-`CMake` `Google Test` `WinAPI` `Linux` `Git`
+## Connect
 
-### Backend & Tools
-`FastAPI` `Docker` `AWS` `Firebase`
+[LinkedIn](https://linkedin.com/in/gabrielppcorrea)
 
----
-
-## 📌 Featured Projects
-
-### ⚙️ RootCause
-Low-level Windows systems telemetry and causal diagnosis agent written in C++.
-
-**C++ · WinAPI · Systems Programming**
-
-### 🛡️ CoreDetector
-Fraud detection API combining machine learning with rule-based heuristics.
-
-**Python · FastAPI · LightGBM · Automated Testing**
-
-### 🤖 MediSuite Local
-Privacy-first system for orchestrating local AI agents.
-
-**Local LLMs · AI Agents · Privacy**
-
----
-
-## 📫 Connect
-
-**Email:** gabrielpcorrea2002@gmail.com  
-**LinkedIn:** linkedin.com/in/gabrielppcorrea
-
----
-
-> Always learning. Always building.
+**Email:** gabrielpcorrea2002@gmail.com
