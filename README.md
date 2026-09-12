@@ -59,12 +59,6 @@ Right now I'm spending most of my study time on:
 - Debugging
 - Windows Internals
 
-## GitHub Stats
-
-![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabriel-correa11&show_icons=true&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-correa11&layout=compact&hide_border=true)
-
 ## Connect
 
 [LinkedIn](https://linkedin.com/in/gabrielppcorrea)
