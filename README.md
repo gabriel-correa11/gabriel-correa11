@@ -1,36 +1,86 @@
-# Hi, I'm Gabriel Correa 🇧🇷
+# Gabriel Correa
 
-I'm a **Software Engineering student** focused on **Systems Engineering** and **low-level programming**. I build software that's correct by construction, not just software that runs.
-
-- 🛠️ **Current Focus:** C++, memory management, concurrent programming, and professional build systems with **CMake** and **Google Test**.
-- 🏗️ **Systems & Windows:** Windows programming with **WinAPI**, understanding what happens below the abstraction layer.
-- 🐍 **Backend & Data:** Python for **Machine Learning APIs** (FastAPI) and fraud detection systems.
-- 🛡️ **Hobbyist:** Diving into **Cybersecurity** and **reverse engineering** to understand systems from the inside out.
-- 🎯 **Goal:** Building software as close to the hardware as possible.
+#### Software Engineering Student · C++ & Systems Programming · Backend
 
 ---
 
-### 🧰 Tech Stack & Tools
+### 🚀 "Building software to understand what happens below the abstraction layer."
 
-- **Systems:** C++ | CMake | Google Test | WinAPI | Multithreading | Linux
-- **Languages:** Python | Java | SQL | JavaScript
-- **Frameworks:** FastAPI | Flutter
-- **Infrastructure:** Docker | Git & GitHub | AWS
-- **Principles:** Clean Architecture | SOLID | Test-Driven Development
+## 👋 Who I Am
+
+I'm Gabriel Correa, a Software Engineering student focused on **C++ and systems programming**.
+
+I enjoy understanding how software works under the hood — from memory and concurrency to operating systems, networking and low-level Windows development.
+
+Alongside systems programming, I've built projects involving backend development, machine learning and local AI systems.
+
+## ⚡ At a Glance
+
+    name:       Gabriel Correa
+    role:       Software Engineering Student
+    focus:      C++ · Systems Programming
+    interests:  OS · Networking · Concurrency · Security
+    building:   RootCause
+    learning:   Modern C++ · Computer Architecture
 
 ---
 
-### 📈 Featured Projects
+## 🔭 Currently Building & Learning
 
-- **CoreDetector:** A production fraud detection API combining Machine Learning (LightGBM) with rule-based heuristics, 185 automated tests, 0.984 recall.
-- **MediSuite Local:** Orchestrating AI agents for medical billing audit (Privacy-first / Local LLM).
-- **Grimório:** A full-stack mobile MVP using Flutter and Firebase.
+### 🛠️ Building
+
+- ⚙️ **RootCause** — low-level Windows telemetry and causal diagnosis in C++
+- 🛡️ **CoreDetector** — fraud detection API combining ML and heuristics
+- 🤖 **MediSuite Local** — privacy-first local AI agent system
+
+### 🌱 Learning
+
+- Modern C++
+- Operating Systems
+- Computer Architecture
+- Multithreading & Concurrency
+- Networking
+- Debugging & Reverse Engineering
 
 ---
 
-### 📬 Let's Connect!
+## 🧰 Tech Stack
 
-- 💼 **LinkedIn:** [linkedin.com/in/gabrielppcorrea](https://www.linkedin.com/in/gabrielppcorrea/)
-- 📧 **Email:** [gabriel2pk@hotmail.com](mailto:gabriel2pk@hotmail.com)
+### Languages & Core
+`C++` `Python` `Java` `JavaScript` `SQL` `Dart`
 
-**"Understanding what happens below the abstraction layer, one system at a time."**
+### Systems
+`CMake` `Google Test` `WinAPI` `Linux` `Git`
+
+### Backend & Tools
+`FastAPI` `Docker` `AWS` `Firebase`
+
+---
+
+## 📌 Featured Projects
+
+### ⚙️ RootCause
+Low-level Windows systems telemetry and causal diagnosis agent written in C++.
+
+**C++ · WinAPI · Systems Programming**
+
+### 🛡️ CoreDetector
+Fraud detection API combining machine learning with rule-based heuristics.
+
+**Python · FastAPI · LightGBM · Automated Testing**
+
+### 🤖 MediSuite Local
+Privacy-first system for orchestrating local AI agents.
+
+**Local LLMs · AI Agents · Privacy**
+
+---
+
+## 📫 Connect
+
+**Email:** gabrielpcorrea2002@gmail.com  
+**LinkedIn:** linkedin.com/in/gabrielppcorrea
+
+---
+
+> Always learning. Always building.
